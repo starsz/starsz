@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I am Xinxin Zhu come from China 🇨🇳.
+
+As a backend R&D works in [API7.AI](https://www.apiseven.com/en).
+
+Also a [Apache APISIX](https://apisix.apache.org/) commiter and major in Openresty & Golang & Kubernetes.
+
+
+In addition, I am music lover likes pop music and playing guiter.
+And a life lover, loves sports (e.g swimming, running and basketball) and occasionally taking photos to record life.
+
+
 <!--
 **starsz/starsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
